@@ -5,7 +5,7 @@ import json
 import sys
 
 
-input_folder = "folder"  # Place your folder where all assets are here
+input_folder = "compressed.html"
 output_js_file = "dataURIs.js"  
 exclude_extensions = {'.tmp', '.ds_store', '.bak'}
 exclude_filenames = {'Thumbs.db', 'desktop.ini'}
